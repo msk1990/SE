@@ -1,1 +1,3 @@
-Yousef's Edit
+for (i=1; i<A.length; i++)
+	System.out.println("Enter your array integer :");
+	A[i] = int.nextInt();
