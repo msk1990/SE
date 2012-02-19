@@ -1,2 +1,3 @@
-for (i <= n, i++)
-	system.out.println("hello!!");
+	for(int i = 0; i <= array.length; i++) {
+		\\code here
+	}
