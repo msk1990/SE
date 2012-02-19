@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Yousef's Edit
-
-sup
-=======
-for (i=1; i<A.length; i++)
-	System.out.println("Enter your array integer :");
-	A[i] = int.nextInt();
->>>>>>> 845dcb1bcd3722ae89a58aad02c9434c4f2dc663
